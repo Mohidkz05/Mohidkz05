@@ -20,3 +20,5 @@ I build practical tools, usually because I wanted one and it didn't exist yet. L
 - [steam-localisation-debt-data](https://github.com/Mohidkz05/steam-localisation-debt-data): 321k Steam reviews across 299 games, used to measure how much missing language support costs a game in review scores.
 
 **Tools I use most:** TypeScript, Next.js, Rust, Python, PyTorch, Postgres
+
+**Get in touch:** [LinkedIn](https://www.linkedin.com/in/muhammad-mohid-khanzada-b67925279/)
